@@ -36,3 +36,10 @@ ls -al
 ![Ez egy kép](https://myoctocat.com/assets/images/base-octocat.svg)
 ![Üveg](./docs/img/colors-gf77afcdf2_1920.jpg "Ez egy üvegfal")
 ![404-es kép](./docs/img/404.png)
+
+# Táblázatok
+
+|balra|középre                           |   jobbra          | c |
+|:-|:-----------------------------------:|------------------:| - |
+|0 |ez egy nagyon hosszú cella           |másik széles oszlop|3|
+|0|4|5|6|
