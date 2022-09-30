@@ -32,3 +32,27 @@ Sima szöveg.
  - második
     1. második elsője
     2. második másodikja
+
+## Kódok
+
+### Inline kód
+
+A címet emelje ki címsor 1-es kiemeléssel (`<h1></h1>`)
+
+A `ctrl`+`c` segítségével másolhatunk.
+
+### Kód blokk
+
+```css
+p {
+    border: 1px black solid;
+}
+```
+
+```
+Ez kód blokk, de szintaxis megadása nélkül.
+```
+
+```bash
+ls -al
+```
