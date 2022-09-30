@@ -30,3 +30,9 @@ Ez kód blokk, de szintaxis megadása nélkül.
 ```bash
 ls -al
 ```
+
+# Képek
+
+![Ez egy kép](https://myoctocat.com/assets/images/base-octocat.svg)
+![Üveg](./docs/img/colors-gf77afcdf2_1920.jpg "Ez egy üvegfal")
+![404-es kép](./docs/img/404.png)
